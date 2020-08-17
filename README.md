@@ -1,4 +1,4 @@
-# Developer Profile
+# Developers Profile
 
 MERN(MongoDB, Express JS, React JS and Node JS) project!
 
